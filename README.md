@@ -1,12 +1,13 @@
 # Data Structures ja Algorithms
-This repository is created to store the code when I reviewed and practiced about data structure and algorithms
+This repository is created to store the code when I reviewed and practiced about data structure and algorithms.
 
-1. Codeforces
+##### 1. Codeforces
 | No    | Problem Name                                                                  | File Name   |
 |-------|-------------------------------------------------------------------------------|-------------|
 | 1     | Codeforces Round 1009 (Div. 3) A. Draw a Square                               | SNP-658.cpp |
+| 2     | Codeforces Round 1007 (Div. 2) B. Perfecto                                    | CPG-183.cpp | 
 
-2. cses
+##### 2. cses
 | No   | Problem Name               | Topic                 | File Name |
 |------|----------------------------|-----------------------|-----------|
 | 1    | Weird Algorithm            | Introductory Problems | 1068.py   |
@@ -39,7 +40,7 @@ This repository is created to store the code when I reviewed and practiced about
 | 28   | Movie Festival             | Sorting and Searching | 1629.py   |
 | 29   | Maximum Subarray Sum       | Sorting and Searching | 1643.py   |
 
-3. vnoi
+##### 3. vnoi
 | No    | Name                                            | File               |
 |-------|-------------------------------------------------|--------------------|
 | 1     | Wooden Sticks                                   | mstick.cpp         |
@@ -52,7 +53,7 @@ This repository is created to store the code when I reviewed and practiced about
 | 8     | Olympic Sinh Viên 2020 - Không chuyên - Chăn bò | olp_kc20_cows.cpp  |
 | 9     | Educational Backtracking: Đi dạo                | backtrack_a.cpp    |
 
-4. lqdoj
+##### 4. lqdoj
 | No    | Name                    | File                   |
 |-------|-------------------------|------------------------|
 | 1     | CSES Tower of Hanoi     | cses2165.py            |
