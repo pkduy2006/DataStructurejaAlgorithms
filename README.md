@@ -6,6 +6,10 @@ This repository is created to store the code when I reviewed and practiced about
 |-------|-------------------------------------------------------------------------------|-------------|
 | 1     | Codeforces Round 1009 (Div. 3) A. Draw a Square                               | SNP-658.cpp |
 | 2     | Codeforces Round 1007 (Div. 2) B. Perfecto                                    | CPG-183.cpp | 
+| 3     | Codeforces Round 1008 (Div. 2) B. Vicious Labyrinth                           | CPG-176.cpp |
+| 4     | Codeforces Round 1009 (Div. 3) D. Counting Pairs                              | NMU-415.cpp |
+| 5     | Codeforces Round 166 (Div. 2) B. Prime Matrix                                 | XOS-745.cpp |
+| 6     | Codeforces Round 674 (Div. 3) C. Increase and Copy                            | SNO-400.cpp | 
 
 ##### 2. cses
 | No   | Problem Name               | Topic                 | File Name |
